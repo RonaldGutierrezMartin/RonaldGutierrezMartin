@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕I am currently studying DAW<br>👶I am still a novice <br>💻I am interested in fullstack web development.<br>🐍I love Python
+📕I am currently studying DAW<br>👶I am still a junior <br>💻I am interested in fullstack web development.<br>🐍I love Python
 
 
 ## 🌐 Socials:
